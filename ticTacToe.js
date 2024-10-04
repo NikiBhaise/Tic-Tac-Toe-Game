@@ -6,6 +6,7 @@ let msg = document.querySelector("#msg");
 
 
 //playerO and playerX
+//This is old tic tac toe game
 
 let turnO = true;
 
